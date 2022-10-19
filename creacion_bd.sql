@@ -1,8 +1,0 @@
-CREATE DATABASE Clase;
-
-USE Clase;
-
-CREATE TABLE Person(
-	dni		VARCHAR(15) PRIMARY KEY,
-	nombre  VARCHAR(50) NOT NULL
-)
